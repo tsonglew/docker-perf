@@ -1,0 +1,1 @@
+docker rm -f ubuntu-perf && docker run --privileged --name=ubuntu-perf -idt ubuntu:perf
